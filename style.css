@@ -1,0 +1,11 @@
+.intro-txt {
+  font-weight: bold;
+}
+.container {
+  max-width: none;
+  padding-left: 0%;
+  padding-right: 0%;
+}
+.name {
+  border-bottom: 0;
+}
