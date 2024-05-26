@@ -1,4 +1,7 @@
-.intro-txt {
+.lead {
+  color: white;
+}
+.intro-txt2 {
   font-weight: bold;
 }
 .container {
@@ -6,6 +9,10 @@
   padding-left: 0%;
   padding-right: 0%;
 }
-.name {
-  border-bottom: 0;
+h1 {
+  color: white;
+}
+.background-image {
+  background-image: url("./images/background.jpg");
+  background-size: cover;
 }
