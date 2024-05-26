@@ -1,18 +1,12 @@
-.lead {
-  color: white;
-}
 .intro-txt2 {
   font-weight: bold;
 }
 .container {
-  max-width: none;
   padding-left: 0%;
   padding-right: 0%;
+  margin: 0%;
+  max-width: 100%;
 }
-h1 {
-  color: white;
-}
-.background-image {
-  background-image: url("./images/background.jpg");
-  background-size: cover;
+.profile-pic {
+  align-self: auto;
 }
