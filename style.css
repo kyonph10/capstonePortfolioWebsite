@@ -10,3 +10,6 @@
 .profile-pic {
   align-self: auto;
 }
+body {
+  height: auto;
+}
